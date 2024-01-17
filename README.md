@@ -20,4 +20,5 @@ Make sure you have Flutter and Dart installed on your development machine.
 Installation
 Clone the repository:
 
-git clone https://github.com/Amanhaldiya/Flutter_Assignment.git.
+git clone https://github.com/Amanhaldiya/Flutter_Assignment.git
+
